@@ -6,7 +6,7 @@
 - 💬 Ask me about any **tech related stuff**.
 - 😄 Pronouns: **He/His**.
 - 💡 [Get to know more about me](http://m-prth.github.io/)
-- 📃 [My Resume](resume.pdf)
+- 📃 [My Resume](Het-Pandya.pdf)
 - ⚡ Fun fact: Think twice, code once.
 - 📫 How to reach me: <strong>(Click the badge to view my profiles!)</strong>  
 
