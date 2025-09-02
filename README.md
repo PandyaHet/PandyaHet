@@ -5,7 +5,7 @@
 - 💼 Open to roles as **Cloud Engineer | Data Engineer | DevOps Engineer**
 - 💬 Ask me about any **tech related stuff**.
 - 😄 Pronouns: **He/His**.
-- 📃 [My Resume](Het-Pandya.pdf)
+- 📃 [My Resume](Het_Resume_Junior_Application_Developer.pdf)
 - ⚡ Fun fact: Think twice, code once.
 - 📫 How to reach me: <strong>(Click the badge to view my profiles!)</strong>  
 
